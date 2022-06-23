@@ -17,7 +17,7 @@ These are single-purpose programs that focus on performing one function. Using r
 ### 2) Data-driven and predictive (conversational) chatbots 
 These are often referred to as virtual assistants or digital assistants, and they are much more sophisticated, interactive, and personalized than task-oriented chatbots. These chatbots are contextually aware and leverage natural-language understanding (NLU), NLP, and ML to learn as they go. They apply predictive intelligence and analytics to enable personalization based on user profiles and past user behavior. Digital assistants can learn a user’s preferences over time, provide recommendations, and even anticipate needs. In addition to monitoring data and intent, they can initiate conversations. Apple’s Siri and Amazon’s Alexa are examples of consumer-oriented, data-driven, predictive chatbots.
 
-<p align="left"> <img src="https://www.revechat.com/wp-content/uploads/2019/08/Streamline-your-customer-onboarding-process.png" height="350px" /> </p>
+<p align="left"> <img src="https://miro.medium.com/max/703/1*nsOCnVqksL3An2SenF2AMA.jpeg" height="350px" /> </p>
 
 ## How chatbots helps in Businesses?
 Chatbots can be an incredibly useful tool when it comes to forging good customer relationships. Your business can leverage it to build strong connections by engaging, and interacting with, users coming to the website. By integrating chatbots, you not only achieve marketing goals but also drive sales and improve customer service. 
