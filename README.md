@@ -44,3 +44,5 @@ There are many different ways a chatbot can positively impact customer communica
 6) Type 'python train_chatbot.py' to train the chatbot.
 7) It will take a while for training.
 8) Now type 'python chatgui.py' to test the chatbot.
+
+If you want you can change the json file with your desired question and answers, train the model again and use it.
