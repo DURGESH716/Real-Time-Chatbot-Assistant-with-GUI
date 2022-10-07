@@ -41,4 +41,6 @@ There are many different ways a chatbot can positively impact customer communica
 3) Open Run window using 'ctrl+R' command.
 4) Type 'cmd' and hit enter.
 5) Type 'cd PASTE_THE_FILE_LOCATION' and hit enter, to enter into the desired directory.
-6) Type 'python train'
+6) Type 'python train_chatbot.py' to train the chatbot.
+7) It will take a while for training.
+8) Now type 'python chatgui.py' to test the chatbot.
