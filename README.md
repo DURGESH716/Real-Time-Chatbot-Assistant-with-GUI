@@ -24,13 +24,21 @@ Chatbots can be an incredibly useful tool when it comes to forging good customer
 
 There are many different ways a chatbot can positively impact customer communication and drive business growth.
 
-### 1) Increase Customer Engagement 
-### 2) Improve Lead Generation
-### 3) Reduce Customer Service Costs
-### 4) Monitor Consumer Data to Gain Insights
-### 5) Devise a Conversational Marketing Strategy
-### 6) Balance Automation with Human Touch  
-### 7) Meet Customer Expectations
-### 8) Achieve Scalability of Support
-### 9) Streamline Your Customer Onboarding Process
-### 10) Make the Customer Journey Smoother 
+1) Increase Customer Engagement 
+2) Improve Lead Generation
+3) Reduce Customer Service Costs
+4) Monitor Consumer Data to Gain Insights
+5) Devise a Conversational Marketing Strategy
+6) Balance Automation with Human Touch  
+7) Meet Customer Expectations
+8) Achieve Scalability of Support
+9) Streamline Your Customer Onboarding Process
+10) Make the Customer Journey Smoother 
+
+## How to run the software on local machine?
+1) Download the Source code in zip format.
+2) Extract the files at your desired location.
+3) Open Run window using 'ctrl+R' command.
+4) Type 'cmd' and hit enter.
+5) Type 'cd PASTE_THE_FILE_LOCATION' and hit enter, to enter into the desired directory.
+6) Type 
