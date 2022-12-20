@@ -1,0 +1,23 @@
+{"intents": [
+        {"tag": "Hello",
+         "patterns": ["Hi", "Hello", "Yo how you doing","what can you do for me"],
+         "responses": ["Hello my dear friend", "Hey Mate!", "Yeah I am good, thanks for asking","Ask me anything! Mate"],
+         "context": [""]
+        },
+        {"tag": "who are you",
+         "patterns": ["who are you", "are you single", "how old are you"],
+         "responses": ["I am chatbot assisstant of Durgesh", "ofcourse just like Durgesh", "My age is infinity as long as someone is maintaining me"],
+         "context": [""]
+        },
+        {"tag": "purpose",
+         "patterns": ["what is your purpose for your life", "do you like girls"],
+         "responses": ["I am born to take care of humans and upgrade the world", "Few girls only, many of them are annoying", ""],
+         "context": [""]
+        },
+        {"tag": "deep learning",
+         "patterns": ["what is deep learning", "why to study deep learning"],
+         "responses": ["deep learning is based on the learning of neural networks, just like the neurons captures memory in our brain.","deep learning is used to solve real world complex problems like self driving cars and even i am also built on this technology only"],
+         "context": [""]
+        }
+      ]}
+        
