@@ -33,7 +33,7 @@ There are many different ways a chatbot can positively impact customer communica
 ## How to run the software on local machine?
 1) Download the Source code in zip format.
 2) Extract the files at your desired location.
-3) Open Run window using ''ctrl+R'' command.
+3) Open Run window using 'ctrl+R' command.
 4) Type ''cmd'' and hit enter.
 5) Type ''cd PASTE_THE_FILE_LOCATION'' where your downloaded files are extracted and hit enter, to enter into the desired directory.
 6) Then type ''pip install -r requirements.txt'' command to install the required libraries and frameworks.
